@@ -25,7 +25,7 @@ SECRET_KEY = '800wt+ht4bxfx=h1x2%7km^&s-!3!+!y2-d7y4$o*s5@e7hl3y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'gabrielepessoa.pythonamywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'gabrielepessoa.pythonamywhere.com', '*']
 
 
 # Application definition
